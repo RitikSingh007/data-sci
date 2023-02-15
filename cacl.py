@@ -30,10 +30,3 @@ while  True:
         print('Invalid choice')
     input('print enter to continue ...')
     os.system('cls')
-
-
-
-
-   
-
-   
